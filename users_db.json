@@ -1,0 +1,32 @@
+{
+  "dzakwan": {
+    "password": "dzakwan123",
+    "name": "Dzakwan",
+    "balance": 3000000,
+    "face_class": "dzakwan"
+  },
+  "fanza": {
+    "password": "fanza123",
+    "name": "Fanza",
+    "balance": 1000000,
+    "face_class": "fanza"
+  },
+  "fillo": {
+    "password": "fillo123",
+    "name": "Fillo",
+    "balance": 500000,
+    "face_class": "fillo"
+  },
+  "yeru": {
+    "password": "yeru123",
+    "name": "Yeru",
+    "balance": 500000,
+    "face_class": "yeru"
+  },
+  "zahid": {
+    "password": "zahid123",
+    "name": "Zahid",
+    "balance": 1000000,
+    "face_class": "zahid"
+  }
+}
